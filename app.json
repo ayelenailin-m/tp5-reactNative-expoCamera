@@ -27,7 +27,7 @@
     },
     "plugins": [
       ["expo-camera", {
-        "cameraPermission": "Permitir que la app use la cámara"
+        "cameraPermission": "Permitir que la app use la cámara para simular reconocimiento facial"
       }]
     ]
   }
